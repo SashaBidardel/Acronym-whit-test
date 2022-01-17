@@ -1,4 +1,4 @@
-# KataAsincronym
+# KataAcronym
 
 ## Requiered
 
