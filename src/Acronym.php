@@ -11,6 +11,7 @@ class Acronym{
 
     function acronym(string $text): string
 {
+    $this->text=$text;
     $resultado="";
     $frase = explode(" ", $text);
     if (sizeof($frase)==1){
